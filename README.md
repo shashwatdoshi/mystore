@@ -1,0 +1,2 @@
+# mystore
+Inventory Managment Software
